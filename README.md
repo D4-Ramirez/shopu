@@ -16,7 +16,7 @@ This is a app designed for a mobile development class, that was originally publi
 ## Developed by ✍️
 
 - [Luis Felipe Ariza Ortiz](https://github.com/Felipe-Ariza)
-- [Andrés Felipe Giraldo Málagon](https://github.com/Ang-m4)
+- [Andrés Felipe Giraldo Malagón](https://github.com/Ang-m4)
 - [Sonia Carolina Molina Moreno](scarolinamm)
 - [David Andrés Ramírez Monroy](https://github.com/D4-Ramirez)
 - [William Orlando Rodríguez Buitrago](https://github.com/WilliamRB32)
